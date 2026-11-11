@@ -58,5 +58,5 @@ Ensayo0.R     Script de práctica
 
 ## Autor y licencia
 
-Daniel Felipe Villa Rengifo ([@dvillaunal](https://github.com/dvillaunal)),
+Daniel Felipe Villa Rengifo ([@danielvillarengifo](https://github.com/danielvillarengifo)),
 abril de 2023. Licencia GPL-3 (ver [`LICENSE`](LICENSE)).
